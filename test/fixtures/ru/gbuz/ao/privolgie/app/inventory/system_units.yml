@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  invent_number: MyString
+  definition: MyString
+  sticker_windows: false
+  sticker: MyString
+
+two:
+  title: MyString
+  invent_number: MyString
+  definition: MyString
+  sticker_windows: false
+  sticker: MyString

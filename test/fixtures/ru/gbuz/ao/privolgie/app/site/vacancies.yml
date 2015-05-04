@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  wage_rate: 1.5
+  salary: 1.5
+  salary_min: 1.5
+  salary_max: 1.5
+  housing: false
+  definition: MyString
+
+two:
+  wage_rate: 1.5
+  salary: 1.5
+  salary_min: 1.5
+  salary_max: 1.5
+  housing: false
+  definition: MyString

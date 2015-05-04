@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  request_fio: MyString
+  request_address: MyString
+  phone: MyString
+  email: MyString
+  request_an_appeal: MyString
+  request_date: 2015-05-04 12:49:12
+
+two:
+  request_fio: MyString
+  request_address: MyString
+  phone: MyString
+  email: MyString
+  request_an_appeal: MyString
+  request_date: 2015-05-04 12:49:12

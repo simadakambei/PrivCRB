@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fio: MyString
+  question: MyString
+  date_question: 2015-05-04 12:44:08
+
+two:
+  fio: MyString
+  question: MyString
+  date_question: 2015-05-04 12:44:08

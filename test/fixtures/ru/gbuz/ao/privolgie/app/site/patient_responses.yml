@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  patient_fio: MyString
+  address: MyString
+  date_response: 2015-05-04 12:41:45
+  response: MyString
+
+two:
+  patient_fio: MyString
+  address: MyString
+  date_response: 2015-05-04 12:41:45
+  response: MyString
